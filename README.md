@@ -70,9 +70,7 @@ Ready to explore my project? Head over to my GitHub repository, where you can di
 - `data/`: Data files for training and testing.
 - `requirements.txt`: Required Python packages.
 
-## Contributing
 
-If you'd like to contribute to this project, please open an issue or submit a pull request. Your contributions are greatly appreciated!
 
 ## License
 
